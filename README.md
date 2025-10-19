@@ -10,7 +10,7 @@ Framework Required : <br> <br>
 ## Run Flask App
 ### Step by Step ( Command Prompt / curl ) : <br>
 1. python app.py to run flask app <br>
-2. curl -X POST -H "Content-Type: application/json" -d "{\"prompt\": \"What do you think about coding?\"}" http://127.0.0.1:5000/inference <br>
+2. `curl -X POST -H "Content-Type: application/json" -d "{\"prompt\": \"What do you think about coding?\"}" http://127.0.0.1:5000/inference <br>`
 note : inside of prompt could be any prompt <br>
 3. Check API Status code command prompt ( if status code is 200 that means the code works )<br> <br>
 
