@@ -2,11 +2,10 @@
 Testing Python Code with Flask API Framework and Ollama <br>
 
 ## Install Dependencies
----
-- Download Ollama ( Model : llama3 )<br>
-Framework Required : <br>
-`pip install flask` <br>
-`pip install Ollama` <br>
+- Download Ollama ( Model : llama3 ) <br>
+Framework Required : <br> <br>
+`pip install flask` <br> <br>
+`pip install Ollama` <br> <br>
  
 ## Run Flask App
 ---
