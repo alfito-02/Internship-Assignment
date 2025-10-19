@@ -8,7 +8,7 @@ Framework Required : <br> <br>
 `pip install Ollama` <br> <br>
  
 ## Run Flask App
-### Step by Step ( Command Prompt ) : <br>
+### Step by Step ( Command Prompt / curl ) : <br>
 1. python app.py to run flask app <br>
 2. curl -X POST -H "Content-Type: application/json" -d "{\"prompt\": \"What do you think about coding?\"}" http://127.0.0.1:5000/inference <br>
 note : inside of prompt could be any prompt <br>
