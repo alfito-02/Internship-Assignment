@@ -22,5 +22,6 @@ note : inside of prompt could be any prompt <br>
 { <br>
 	"prompt": "What do you think about coding?" <br>
 } <br>
+note : inside of prompt could be any prompt <br>
 5. below you can see the response in JSON format <br>
 6. Check API Status code command prompt ( if status code is 200 that means the code works )<br>
